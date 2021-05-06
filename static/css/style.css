@@ -48,6 +48,15 @@ body {
   padding: 2%;
   font-size: 70px; }
 
+.wallpaper .introduction a {
+  color: #fff;
+  transition: all 500ms ease;
+  font-size: 22px;
+  text-decoration: none; }
+
+.wallpaper .introduction a:hover {
+  color: #919191; }
+
 @media (max-width: 700px) {
   .wallpaper .introduction h1 {
     font-size: 50px; }
